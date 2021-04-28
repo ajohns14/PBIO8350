@@ -10,5 +10,3 @@ Kernel:  AVX+FMA - 1 threads (4 CPU cores detected)
 
 HINT: Use -nt option to specify number of threads because your CPU has 4 cores!
 HINT: -nt AUTO will automatically determine the best number of threads to use.
-
-Reading alignment file termites ... ERROR: File not found termites
